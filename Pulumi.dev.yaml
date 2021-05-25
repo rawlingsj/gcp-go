@@ -1,0 +1,3 @@
+config:
+  gcp:project: jenkins-x-labs-bdd1
+  pulumi:template: gcp-go
